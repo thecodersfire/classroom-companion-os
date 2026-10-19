@@ -24,3 +24,11 @@ The `classroom-companion.svg` wallpaper is original. Classroom Companion OS is a
 
 See [FEATURES.md](FEATURES.md) for three local tools included for schoolwork and study.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Foliate, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Foliate, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Foliate, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Foliate, VSCodium**. See [FEATURES.md](FEATURES.md).
