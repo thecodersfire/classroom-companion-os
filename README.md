@@ -25,4 +25,4 @@ The `classroom-companion.svg` wallpaper is original. Classroom Companion OS is a
 See [FEATURES.md](FEATURES.md) for three local tools included for schoolwork and study.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
